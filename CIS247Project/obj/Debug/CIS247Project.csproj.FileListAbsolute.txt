@@ -1,0 +1,22 @@
+C:\Users\joeyr\Desktop\CIS247Project\bin\Debug\CIS247Project.exe.config
+C:\Users\joeyr\Desktop\CIS247Project\bin\Debug\CIS247Project.exe
+C:\Users\joeyr\Desktop\CIS247Project\bin\Debug\CIS247Project.pdb
+C:\Users\joeyr\Desktop\CIS247Project\obj\Debug\CIS247Project.csprojResolveAssemblyReference.cache
+C:\Users\joeyr\Desktop\CIS247Project\obj\Debug\CIS247Project.Form1.resources
+C:\Users\joeyr\Desktop\CIS247Project\obj\Debug\CIS247Project.Properties.Resources.resources
+C:\Users\joeyr\Desktop\CIS247Project\obj\Debug\CIS247Project.csproj.GenerateResource.Cache
+C:\Users\joeyr\Desktop\CIS247Project\obj\Debug\CIS247Project.exe
+C:\Users\joeyr\Desktop\CIS247Project\obj\Debug\CIS247Project.pdb
+C:\Users\joeyr\Desktop\CIS247Project\bin\Debug\FinalProject.exe
+C:\Users\joeyr\Desktop\CIS247Project\bin\Debug\FinalProject.pdb
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\school projects\CIS-247\FinalProject\CIS247Project\bin\Debug\CIS247Project.exe.config
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\school projects\CIS-247\FinalProject\CIS247Project\obj\Debug\CIS247Project.exe
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\school projects\CIS-247\FinalProject\CIS247Project\obj\Debug\CIS247Project.pdb
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\school projects\CIS-247\FinalProject\CIS247Project\bin\Debug\CIS247Project.exe
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\school projects\CIS-247\FinalProject\CIS247Project\bin\Debug\CIS247Project.pdb
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\school projects\CIS-247\FinalProject\CIS247Project\bin\Debug\FinalProject.exe
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\school projects\CIS-247\FinalProject\CIS247Project\bin\Debug\FinalProject.pdb
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\school projects\CIS-247\FinalProject\CIS247Project\obj\Debug\CIS247Project.csprojResolveAssemblyReference.cache
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\school projects\CIS-247\FinalProject\CIS247Project\obj\Debug\CIS247Project.Form1.resources
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\school projects\CIS-247\FinalProject\CIS247Project\obj\Debug\CIS247Project.Properties.Resources.resources
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\school projects\CIS-247\FinalProject\CIS247Project\obj\Debug\CIS247Project.csproj.GenerateResource.Cache
